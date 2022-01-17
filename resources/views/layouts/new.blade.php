@@ -41,19 +41,16 @@
                 opacity: .7; 
                 z-index: -1;
             }
-    
-            .circle{
-                border-radius:200px;
-                padding: 30px;
-                width:100px;
-                height:50px;
-                text-align:center;
+
+            i.lni {
+                display: inline-block;
+                border-radius: 60px;
+                box-shadow: 0 0 2px #888;
+                padding: 0.5em 0.6em;
+                background: #e48820;
+                color: white;
+                font-size: 40px
             }
-    
-          .lni {
-              color:white;
-              line-height:50px;
-          }
     
         </style>
         @include('sweetalert::alert')

@@ -67,23 +67,23 @@
     <div class="container">
         <div class="row">
             <div class="col-md-3 text-center mb-3">
-                <a href="https://web.facebook.com/taitanzania/" target="_blank" class="circle" style="background: #E48821; border: 1px solid #E48821">
-                    <i class="lni lni-facebook-filled" style="font-size: 40px"></i>
+                <a href="https://web.facebook.com/taitanzania/" target="_blank">
+                    <i class="lni lni-facebook-filled"></i>
                 </a>
             </div>
             <div class="col-md-3 text-center mb-3">
-                <a href="https://www.instagram.com/taitanzania/?hl=en" target="_blank" class="circle" style="background: #E48821; border: 1px solid #E48821">
-                    <i class="lni lni-instagram-filled" style="font-size: 40px"></i>
+                <a href="https://www.instagram.com/taitanzania/?hl=en" target="_blank">
+                    <i class="lni lni-instagram-filled"></i>
                 </a>
             </div>
             <div class="col-md-3 text-center mb-3">
-                <a href="https://twitter.com/taitanzania" target="_blank" class="circle" style="background: #E48821; border: 1px solid #E48821">
-                    <i class="lni lni-twitter-filled" style="font-size: 40px"></i>
+                <a href="https://twitter.com/taitanzania" target="_blank">
+                    <i class="lni lni-twitter-filled"></i>
                 </a>
             </div>
             <div class="col-md-3 text-center mb-3">
-                <a href="https://www.youtube.com/c/TaiTanzania" target="_blank" class="circle" style="background: #E48821; border: 1px solid #E48821">
-                    <i class="lni lni-youtube" style="font-size: 40px"></i>
+                <a href="https://www.youtube.com/c/TaiTanzania" target="_blank">
+                    <i class="lni lni-youtube"></i>
                 </a>
             </div>
         </div>
