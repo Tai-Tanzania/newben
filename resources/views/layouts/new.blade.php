@@ -57,7 +57,7 @@
     </head>
     <body id="page-top">
         <!-- Navigation-->
-        <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" style="background: #715739" id="mainNav">
+        <nav class="navbar navbar-expand-lg text-uppercase fixed-top" style="background: #715739" id="mainNav">
             <div class="container">
                 <a class="navbar-brand" href="/">
                     <img src="{{ asset('assets/images/Tai Logo - white.png') }}" style="max-width: 150px" alt="">
