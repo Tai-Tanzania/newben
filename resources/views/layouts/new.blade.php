@@ -57,12 +57,12 @@
     </head>
     <body id="page-top">
         <!-- Navigation-->
-        <nav class="navbar navbar-expand-lg text-uppercase fixed-top" style="background: #e48820" id="mainNav">
+        <nav class="navbar navbar-expand-lg text-uppercase fixed-top" style="background: #6c4130" id="mainNav">
             <div class="container">
                 <a class="navbar-brand" href="/">
                     <img src="{{ asset('assets/images/Tai Logo - white.png') }}" style="max-width: 150px" alt="">
                 </a>
-                <button style="background: #e48820" class="navbar-toggler text-uppercase font-weight-bold text-white rounded" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <button style="background: #6c4130" class="navbar-toggler text-uppercase font-weight-bold text-white rounded" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fas fa-bars"></i>
                 </button>
